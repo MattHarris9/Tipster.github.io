@@ -11,5 +11,9 @@ and see what beer it'll be matched with.
 Now, you're probably wondering how we managed to match a beer with a random movie; well here's
 the secret. The beer is determined based off the movie's run time and the amount of vowels in the title. If you're a beer lover go ahead and try it out, if you dont like beer; come back in the future when Tipster 2.0 is out.
 
+Created by:
+
+Matthew Harris: https://github.com/MattHarris9 
+
 
 
