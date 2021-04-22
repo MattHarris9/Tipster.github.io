@@ -15,7 +15,7 @@ Created by:
 
 Matthew Harris: https://github.com/MattHarris9 
 
-deployed link:
+deployed link: https://mattharris9.github.io/tipster/
 
 
 Liscense:
